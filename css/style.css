@@ -1,0 +1,58 @@
+body {
+	font-family: "Montserrat";
+}
+img {
+	width: 100%;
+}
+.navbg {
+	background-color: lightgrey;
+}
+.navsize {
+	font-size: 20px;
+}
+.logo {
+	width: 50%;
+}
+#header{
+	background-color: #ff4c68;
+}
+#section1 {
+	padding: 7% 15%;
+}
+#section2 {
+	text-align: center;
+	background-color: orange;
+	color: #fff;
+}
+.feature-box {
+	text-align: center;
+}
+.section2-image {
+	width: 10%;
+	border-radius: 100%;
+	margin: 20px;
+}
+.icons {
+	color: orange;
+}
+h1 {
+	font-weight: bold;
+	color: white;
+}
+h3 {
+	font-weight: bold;
+	line-height: 1.5 !important;
+}
+i:hover {
+	color: red;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    width: 25% !important;
+    height: 25% !important;
+}
+.carousel-item {
+	padding: 7% 15%;
+}
+.carousel-indicators li {
+	background-color: #000 !important;
+}
